@@ -407,7 +407,7 @@
                         }),
                         (0, t.jsx)("p", {
                           className: "mb-2 text-lg",
-                          children: "Token Supply: 420,690,000,000",
+                          children: "Token Supply: 1,000,000,000",
                         }),
                         (0, t.jsx)("p", {
                           className: "mb-2 text-lg",
