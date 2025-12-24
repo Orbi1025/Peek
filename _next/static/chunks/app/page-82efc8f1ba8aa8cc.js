@@ -282,7 +282,7 @@
                           }),
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://dextools.com",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x6927c51e1d97298c795ea79464e2ef32255737a9",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, t.jsx)("img", {
