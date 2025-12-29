@@ -23,7 +23,7 @@
       s(9324);
       var l = s(2115);
       let o =
-        "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon";
+        "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x18a97E2867e297868d8b2cbA3d67Eb67c45cB228";
       function i() {
         let [e, t] = (0, l.useState)(!1);
         return (0, r.jsxs)("div", {
@@ -211,7 +211,7 @@
                         }),
                       }),
                       (0, r.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x18a97E2867e297868d8b2cbA3d67Eb67c45cB228",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {
