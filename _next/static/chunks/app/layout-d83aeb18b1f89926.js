@@ -23,7 +23,7 @@
       s(9324);
       var l = s(2115);
       let o =
-        "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x9ddaaa12482c6bc44b99de7c434f39ff740b2048";
+        "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon";
       function i() {
         let [e, t] = (0, l.useState)(!1);
         return (0, r.jsxs)("div", {
@@ -191,7 +191,7 @@
                     className: "flex justify-center space-x-4 mb-4",
                     children: [
                       (0, r.jsx)("a", {
-                        href: "https://x.com/Peek_dinosaur",
+                        href: "https://x.com/Peek_Token",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {
@@ -201,7 +201,7 @@
                         }),
                       }),
                       (0, r.jsx)("a", {
-                        href: "https://t.me/PeekDinosaur",
+                        href: "https://t.me/Peek_Token",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {
@@ -211,7 +211,7 @@
                         }),
                       }),
                       (0, r.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9ddaaa12482c6bc44b99de7c434f39ff740b2048",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {

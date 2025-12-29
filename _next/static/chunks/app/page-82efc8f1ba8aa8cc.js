@@ -262,7 +262,7 @@
                         "flex justify-center md:justify-start space-x-4 mb-6",
                       children: [
                         (0, t.jsx)("a", {
-                          href: "https://x.com/Peek_dinosaur",
+                          href: "https://x.com/Peek_Token",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, t.jsx)("img", {
@@ -272,7 +272,7 @@
                           }),
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://t.me/PeekDinosaur",
+                          href: "https://t.me/Peek_Token",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, t.jsx)("img", {
@@ -282,7 +282,7 @@
                           }),
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9ddaaa12482c6bc44b99de7c434f39ff740b2048",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, t.jsx)("img", {
